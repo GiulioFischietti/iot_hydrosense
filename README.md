@@ -4,10 +4,8 @@ UniPi Internet of things project.
 ### About HydroSense
 
 HydroSense is an AI-driven system that utilizes smart sensors to **forecast water pump breakages in real-time**. By providing early warnings, it enables preventive maintenance, minimizing downtime and associated costs.
-
 ![image](https://github.com/user-attachments/assets/3f75e020-52d4-4742-a4da-cc84eda39a9e)
 
-In this application
 ## Features
 
 - **Real-Time Monitoring**: Uses smart sensors to continuously track water pump performance.
